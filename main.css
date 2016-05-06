@@ -1,0 +1,19 @@
+body {
+    background-color: #eee;
+    background-color: #bbbbbb;
+}
+#main-content-area {}
+.text-white {
+    color: #ffb6b6;
+    /*color: rgb(113, 54, 54);*/
+}
+.masthead {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    margin-bottom: 3rem;
+    background-color: rgb(113, 54, 54);
+    background-color: rgb(34, 34, 34);
+}
+.image-background{
+    background: rgb(34, 34, 34);
+}
