@@ -7,6 +7,12 @@ body {
     color: #ffb6b6;
     /*color: rgb(113, 54, 54);*/
 }
+
+h1 {
+   font-size: 6em;
+}
+
+
 .masthead {
     padding-top: 5rem;
     padding-bottom: 5rem;
